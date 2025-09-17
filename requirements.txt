@@ -1,0 +1,6 @@
+streamlit
+pillow
+google-genai
+numpy
+trimesh
+pygltflib
